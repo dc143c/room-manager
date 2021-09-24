@@ -1,6 +1,13 @@
 # Room Manager API
 Project for Digital Innovation One's Java Developer Bootcamp.
 
+Tecnologias utilizadas:
+- Spring Boot
+- H2
+- JPA
+- Javax-Validation
+- Lombok
+
 Este repositório foi criado inteiramente com Java e Spring Boot, tendo como objetivo a implementação de uma api de controle e gerenciamento de salas.
 A ideia inicialmente se tratava de salas físicas para alocação, mas adaptei para salas virtuais, onde existem diversas salas marcadas no horário.
 
